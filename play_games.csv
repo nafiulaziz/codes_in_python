@@ -1,0 +1,8 @@
+Day,Outlook,Temperature,Routine,Play
+d1,sunny,cold,indoor,NO
+d2,sunny,warm,outdoor,NO
+d3,cloudy,warm,indoor,NO
+d4,sunny,warm,indoor,NO
+d5,cloudy,cold,indoor,YES
+d6,cloudy,cold,outdoor,YES
+d7,sunny,cold,outdoor,YES
